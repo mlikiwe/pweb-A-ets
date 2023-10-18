@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color:#e2eeea;
+    margin-top: 3rem;
+}
+
+.lead{
+    text-align: center;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+footer{
+    background-color: green;
+    text-align: center;
+    text-decoration: aquamarine;
+}
